@@ -89,6 +89,4 @@ AI evaluates waypoints based on:
 - Occupancy by allies  
 - Tactical value  
 
-These inputs influence planning decisions, allowing agents to choose effective positions dynamically.d  
-
----
+These inputs influence planning decisions, allowing agents to choose effective positions dynamically.
